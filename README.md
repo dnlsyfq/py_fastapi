@@ -1,1 +1,10 @@
-# py_fastapi
+
+
+```
+pip install fastapi
+
+```
+
+```
+uvicorn main:app --reload
+```
